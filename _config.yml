@@ -1,0 +1,7 @@
+# Site settings
+title: Marathi
+description: Marathi works by creative students
+keywords: CWIT, Marathi
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
